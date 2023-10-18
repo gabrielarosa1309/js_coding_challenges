@@ -1,2 +1,2 @@
 # js_coding_challenges
-Repositório destinado aos exercícios de treinamento da linguagem JavaScript.
+Repositório com os exercícios: https://github.com/rradfar/javascript-coding-challenges
